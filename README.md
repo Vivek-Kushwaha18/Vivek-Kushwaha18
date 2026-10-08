@@ -17,7 +17,7 @@ I am passionate about turning raw data into meaningful insights. I enjoy solving
 ·	Microsoft Excel
 ·	Data Cleaning
 ·	Data Visualization
-
+. Fast API(Python)
 ￼
 
 📚 Currently Learning
