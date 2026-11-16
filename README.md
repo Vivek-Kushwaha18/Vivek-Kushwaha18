@@ -1,4 +1,4 @@
-Hi, I'm Vivek Kushwaha 👋
+cHi, I'm Vivek Kushwaha 👋
 
 🎯 Aspiring Data Analyst/Data Science
 
@@ -35,7 +35,7 @@ I am passionate about turning raw data into meaningful insights. I enjoy solving
 ·	Customer Churn Analysis
 ·	Brain Tumor Detection using CNN
 ·	Power BI Dashboards
-
+. https://shopshere-frontend-theta.vercel.app
 ￼
 
 📫 Connect with Me
